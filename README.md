@@ -1,9 +1,5 @@
-Under federal law, all hospital prices in the United States are required to be publicly available. However, accessing this information can be challenging for the general public. We've initiated an open data initiative to gather these hospital prices and compile them into a centralized database.
-The initial phase involves linking the standard charge files, which associate hospital procedures with both their "gross charges" and the negotiated rates with all insurance providers.
+New York City's air quality changed throughout the years. With the use of NYC OpenData I was able to obtain and examine the air quality in different areas of New York City.
 
-NPI (National Provider Identifier)
-TIN (Taxpayer Identification Number)
-Both are essential for legal and billing purposes.
+NYC OpenData Air Quality: https://data.cityofnewyork.us/Environment/Air-Quality/c3uy-2p5r
+Access the API here: https://data.cityofnewyork.us/resource/c3uy-2p5r.json
 
-NPI and TIN are fundamental tools for accurately identifying healthcare providers and organizations, streamlining administrative processes, ensuring regulatory compliance, and maintaining financial integrity in hospitals.
-# standard-charge-files
